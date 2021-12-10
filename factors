@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# factoring challenge
 
 check_factor()
 {
